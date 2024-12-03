@@ -1,0 +1,6 @@
+/.direnv/
+/.zig-cache/
+clojure/.clj-kondo
+clojure/.cpcache
+clojure/.lsp
+clojure/.nrepl-port
