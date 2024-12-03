@@ -5,3 +5,4 @@ clojure/.cpcache
 clojure/.lsp
 clojure/.nrepl-port
 zig/.zig-cache
+rust/target
